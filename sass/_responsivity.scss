@@ -1,0 +1,25 @@
+@media screen and (max-width: 480px) {
+  body {
+    margin-left: 2px;
+    margin-right: 2px; 
+  }
+  .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video{
+    width: auto;
+  }
+
+  p {
+    text-align: justify;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  nav {
+    position: static;
+  }
+
+  .lista-beneficios, .imgbeneficios {
+    width: 100%;
+  }
+}
